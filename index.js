@@ -9,7 +9,7 @@ const calc = (array, n1, n2) => {
     }
     return sum;
 }
-console.log(calc([1, 2, 3, 4, 5, 6], 1, 4))
+console.log(calc([1, 2, 3, 4, 5, 6], 2, 4))
 
 
 
