@@ -1,4 +1,4 @@
-// Exercice 1
+// Exercice 1 (algo)
 const calc = (array, n1, n2) => {
     let sum = 0;
     if (n1 >= 0 && n1 <= n2 && n2 < array.length

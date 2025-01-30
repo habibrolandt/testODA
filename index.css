@@ -7,6 +7,7 @@ body {
   
   h1 {
     text-align: center;
+    text-transform: uppercase;
   }
   
   button {
@@ -21,6 +22,7 @@ body {
     list-style: none;
     padding: 0;
     margin: 0;
+
   }
   
   li {
